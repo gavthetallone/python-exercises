@@ -2,29 +2,29 @@
 
 ## Challenge
 
-Print out the times tables from 1 to 10.
+Write a program that takes a number and prints the full times table of that number. Do not include 0.
 
 Hint: don’t manually set your code to print each number, one by one. Use a loop.
 
 ## Example
 
+With an input of 5, it will print:
 
-1	2	3	4	5	6	7	8	9	10
+1       2       3       4       5
+2       4       6       8       10
+3       6       9       12      15
+4       8       12      16      20
+5       10      15      20      25
 
-11	12	13	14	15	16	17	18	19	20
+With an input of 10, it will print:
 
-21	22	23	24	25	26	27	28	29	30
-
-31	32	33	34	35	36	37	38	39	40
-
-41	42	43	44	45	46	47	48	49	50
-
-51	52	53	54	55	56	57	58	59	60
-
-61	62	63	64	65	66	67	68	69	70
-
-71	72	73	74	75	76	77	78	79	80
-
-81	82	83	84	85	86	87	88	89	90
-
-91	92	93	94	95	96	97	98	99	100
+1       2       3       4       5       6       7       8       9       10
+2       4       6       8       10      12      14      16      18      20
+3       6       9       12      15      18      21      24      27      30
+4       8       12      16      20      24      28      32      36      40
+5       10      15      20      25      30      35      40      45      50
+6       12      18      24      30      36      42      48      54      60
+7       14      21      28      35      42      49      56      63      70
+8       16      24      32      40      48      56      64      72      80
+9       18      27      36      45      54      63      72      81      90
+10      20      30      40      50      60      70      80      90      100
